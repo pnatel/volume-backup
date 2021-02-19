@@ -1,3 +1,8 @@
+ARM image status: [![build multiarch master Image](https://github.com/pnatel/volume-backup/actions/workflows/main.yml/badge.svg)](https://github.com/pnatel/volume-backup/actions/workflows/main.yml) 
+
+Available from: [Docker Hub](https://hub.docker.com/repository/docker/pnatel/volume-backup) 
+
+ 
 # volume-backup
 
 An utility to backup and restore [docker volumes](https://docs.docker.com/engine/reference/commandline/volume/). 
